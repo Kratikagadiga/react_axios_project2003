@@ -4,7 +4,9 @@
 import './App.css'
 import React from 'react';
 import Fetch from './Fetch';
+import 'bootstrap/dist/css/bootstrap.min.css';
 // import axios from './axios';
+// import Table from 'react-bootstrap/esm/Table';
 
 // To
 // import axios from 'axios';
