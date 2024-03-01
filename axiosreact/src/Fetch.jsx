@@ -14,7 +14,7 @@ function Fetch() {
     return (
         <div className='container'>
             <div className='mt-3'>
-                <h3>Fetch data from API in react with axios</h3>
+                <h3>Fetch data</h3>
                 <table className='table'>
                     <thead>
                         <tr>
